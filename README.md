@@ -4,3 +4,7 @@ This project is to make Text Abstractive Summarization with CNN_DailyMail datase
 # Dataset
 The dataset can be downloaded via the following link https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail
 
+# Install Requirements
+`pip install -r requirements.txt`
+
+# Run Code
